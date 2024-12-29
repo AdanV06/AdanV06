@@ -1,5 +1,5 @@
-# Hola
-## estoy aprendiendo markdown
-## esto es una prueba
+# **Hola**
+## __estoy aprendiendo markdown__
+## ~~esto es una prueba~~
 
 
