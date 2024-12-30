@@ -26,7 +26,7 @@
 > [!Note]
 > Cuando no hemos publicado la rama antes de hacer el commit, aparecera un boton **Publish Branch**, luego de pulsar en el la subiremos al repsitorio en GitHub.
 
-## Pull Requests:
+## Pulldavfwefvds:
 Utiliamos pull requests para meclar los cambios realizados, con la rama **main**.
 1. Primero abrimos el repositorio en Github
 2. Seleccionamos la opcion `Pull Request`
