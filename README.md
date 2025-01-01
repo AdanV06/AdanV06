@@ -128,7 +128,7 @@
 
 >[!NOTE]
 >Utilizamos el comando `IN` para seleccionar elementos que contengan valores especificos en las columnas 
->(Debe estar antecedido por un WHERE)*/
+>(Debe estar antecedido por un WHERE)
 
 `SELECT * FROM users WHERE name IN('Brice','Sara');` -> Seleccionar todos los elementos de la tabla donde en la columna 'name' tengan el valor 'Brice' y 'Sara'
 
@@ -136,7 +136,7 @@
 ## BETWEEN
 
 >[!NOTE]
->Utilizamos el comando `BETWEEN` para seleccionar elementos que tengan el valor de una columna en un rango determinado*/
+>Utilizamos el comando `BETWEEN` para seleccionar elementos que tengan el valor de una columna en un rango determinado
 
 `SELECT * FROM users WHERE age BETWEEN 20 and 30;` -> Seeccionar todos los elementos de la tabla donde el valor de la columna 'age' este entre 20 y 30
 
