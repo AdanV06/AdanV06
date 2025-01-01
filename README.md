@@ -81,7 +81,7 @@
 ## NULL
 
 >[!NOTE]
->Utilizamos el comando `NULL` para selecionar elementos que contengan el valor NULL*/
+>Utilizamos el comando `NULL` para selecionar elementos que contengan el valor NULL
 
 `SELECT * FROM users Where int_date is NUll;` -> Seleccionar todos los elementos de la tabla donde en la columna int_date el valor sea NULL
 
@@ -91,7 +91,7 @@
 
 >[!NOTE]
 >Utilizamos el comando `MAX` para seleccionar el valor maximo de una columna
->Utilizamos el comando `MIN` para seleccionar el valor minimo de una columna*/
+>Utilizamos el comando `MIN` para seleccionar el valor minimo de una columna
 
 `SELECT MAX(age) FROM users;` -> Seleccionar el elemento maximo de la columna 'age' de la tabla users
 
