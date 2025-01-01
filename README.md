@@ -25,7 +25,7 @@
 ## WHERE
 
 >[!NOTE]
->Utilizamos el comando WHERE para selecionar elementos que cumplan una condicion
+>Utilizamos el comando `WHERE` para selecionar elementos que cumplan una condicion
 
 `SELECT * FROM users where age = 15;`-> Seleccionar todos los elementos de la tabla en que 'age' sea igual a 15
 
@@ -36,7 +36,7 @@
 ## ORDER BY
 
 >[!NOTE]
->Utilizamos el comando ORDER BY para ordenar elementos
+>Utilizamos el comando `ORDER BY` para ordenar elementos
 
 `SELECT * FROM users order by age DESC;` -> Seleccionar todos los elementos de la tabla y ordenarlos por la columna age de forma descendente
 
@@ -47,7 +47,7 @@
 ## LIKE
 
 >[!NOTE]
->Utilizamos el comando LIKE para seleccionar elementos que contengan valores dentro de los valores de las columnas
+>Utilizamos el comando `LIKE` para seleccionar elementos que contengan valores dentro de los valores de las columnas
 
 `SELECT name FROM users WHERE email LIKE '%gmail.com';` -> Seleccionar los elementos de la columna name donde la columna email contenga 'gmail.com' al final de su valor
 
@@ -59,9 +59,9 @@
 ## AND/OR/NOT 
 
 >[!NOTE]
->Utilizamos el comando AND para seleccionar elementos que cumplan 2 condiciones
->Utilizamos el comando OR para seleccionar elementos que cumplan una de 2 condiciones
->Utilizamos el comando NOT para selecionar elementos que no cumplan una condicion
+>Utilizamos el comando `AND` para seleccionar elementos que cumplan 2 condiciones
+>Utilizamos el comando `OR` para seleccionar elementos que cumplan una de 2 condiciones
+>Utilizamos el comando `NOT` para selecionar elementos que no cumplan una condicion
 
 `SELECT name FROM users WHERE NOT email='sara@gmail.com';` -> Seleccionar los elementos de la columna name que no tengan el valor 'sara@gmail.com' en la columna email 
 
@@ -72,7 +72,7 @@
 ## LIMIT
 
 >[!NOTE]
->Utilizamos el comando LIMIT para mostrar solo la cantidad de elementos deseada
+>Utilizamos el comando `LIMIT` para mostrar solo la cantidad de elementos deseada
 
 `SELECT * FROM users LIMIT 4;` -> Seleccionar tods los elementos de la tabla y mostrar solo 4 elementos
 
@@ -81,7 +81,7 @@
 ## NULL
 
 >[!NOTE]
->Utilizamos el comando NULL para selecionar elementos que contengan el valor NULL*/
+>Utilizamos el comando `NULL` para selecionar elementos que contengan el valor NULL*/
 
 `SELECT * FROM users Where int_date is NUll;` -> Seleccionar todos los elementos de la tabla donde en la columna int_date el valor sea NULL
 
@@ -90,8 +90,8 @@
 ## MAX / MIN
 
 >[!NOTE]
->Utilizamos el comando MAX para seleccionar el valor maximo de una columna
->Utilizamos el comando MIN para seleccionar el valor minimo de una columna*/
+>Utilizamos el comando `MAX` para seleccionar el valor maximo de una columna
+>Utilizamos el comando `MIN` para seleccionar el valor minimo de una columna*/
 
 `SELECT MAX(age) FROM users;` -> Seleccionar el elemento maximo de la columna 'age' de la tabla users
 
@@ -101,7 +101,7 @@
 ## COUNT
 
 >[!NOTE]
->Utilizamos el comando COUNT para contar elementos de una columna
+>Utilizamos el comando `COUNT` para contar elementos de una columna
 
 `SELECT COUNT(age) FROM users;` -> Contar los elementos de la columna 'age' de la tabla users
 
@@ -111,7 +111,7 @@
 ## SUM
 
 >[!NOTE]
->Utilizamos el comando SUM para sumar elementos de una columna
+>Utilizamos el comando `SUM` para sumar elementos de una columna
 
 `SELECT SUM(age) FROM users;` -> Sumar los elementos de la columna 'age' de la tabla users
 
