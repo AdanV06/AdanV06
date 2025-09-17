@@ -2,10 +2,11 @@
 
 ● Apasionado por la programación ✨️💻 y estudiante en la facultad de Matematica y Computacion (MatCom) 
 
-●Actualmente aprendiendo 📚:
--Fundamentos de Python, conceptos de algoritmos y estructuras de datos 📝
-
-● 🚀 Intereses en el desarrollo web y aplicaciones, proyectos de open source y aprender nuevas tecnologías 👨‍💻🌱
+● 🚀 Intereses:
+- Desarrollo web y aplicaciones💫 
+- Estudio de IA, Machine Learning y Visión Artificial👾
+- Proyectos de open source 
+- Aprender nuevas tecnologías 👨‍💻🌱
 <!--
 **AdanV06/AdanV06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
