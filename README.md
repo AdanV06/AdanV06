@@ -1,5 +1,3 @@
- ## 👋Sobre mi:
-
 ● Apasionado por la programación ✨️💻 y estudiante en la facultad de Matematica y Computacion (MatCom) 
 
 ● 🚀 Intereses:
