@@ -1,10 +1,6 @@
-● Apasionado por la programación ✨️💻 y estudiante en la facultad de Matematica y Computacion (MatCom) 
+● Passionate about programming ✨️💻 and a student in the Faculty of Mathematics and Computing (MatCom)
 
-● 🚀 Intereses:
-- Desarrollo web y aplicaciones💫 
-- Estudio de IA, Machine Learning y Visión Artificial👾
-- Proyectos de open source 
-- Aprender nuevas tecnologías 👨‍💻🌱
+
 <!--
 **AdanV06/AdanV06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
