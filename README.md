@@ -1,4 +1,4 @@
-● Passionate about programming ✨️💻 and a student in the Faculty of Mathematics and Computing (MatCom)
+# Passionate about programming ✨️💻 and a student in the Faculty of Mathematics and Computing (MatCom)
 
 
 <!--
